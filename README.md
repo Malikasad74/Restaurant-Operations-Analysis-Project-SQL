@@ -1,4 +1,4 @@
-# RestaurantOperationsAnalysisSQL
+# Restaurant Operations Analysis SQL
 
 Introducing the Taste of the World Café, where culinary innovation meets customer satisfaction! 🍽️✨
 
